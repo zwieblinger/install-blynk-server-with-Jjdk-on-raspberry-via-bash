@@ -12,7 +12,7 @@ This script does the following:
 Step 1 - Clone this repo
 
 ```shell
-git clone https://github.com/zwieblinger/test.git
+git clone https://github.com/zwieblinger/install-blynk-server-with-Jjdk-on-raspberry-via-bash.git
 ```
 
 Step 2 - Run the installer script
